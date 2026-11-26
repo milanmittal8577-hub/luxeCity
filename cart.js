@@ -55,7 +55,7 @@ function renderCart() {
 
                 <h3>${item.title}</h3>
 
-                <p>Price: $${item.price.toFixed(2)}</p>
+                <p>Price: ₹${item.price.toFixed(2)}</p>
 
                 <div class="quantity-controls">
 
@@ -73,7 +73,7 @@ function renderCart() {
                 </div>
 
                 <p>
-                    Subtotal: $${(item.price * item.quantity).toFixed(2)}
+                    Subtotal: ₹${(item.price * item.quantity).toFixed(2)}
                 </p>
 
                 <button class="remove-btn">
