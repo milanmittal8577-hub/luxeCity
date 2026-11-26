@@ -1,0 +1,1208 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Rolex Submariner Date",
+      "brand": "Rolex",
+      "description": "Submariner Date wristwatch by Rolex. Reference 126610LN.",
+      "reference": "126610LN",
+      "category": "mens-watches",
+      "price": 1104000,
+      "currency": "INR",
+      "priceType": "manufacturer listed price",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/submariner/m126610ln-0001"
+    },
+    {
+      "id": 2,
+      "title": "Rolex Submariner",
+      "brand": "Rolex",
+      "description": "Submariner wristwatch by Rolex. Reference 124060.",
+      "reference": "124060",
+      "category": "mens-watches",
+      "price": 950000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m124060-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m124060-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/submariner/m124060-0001"
+    },
+    {
+      "id": 3,
+      "title": "Rolex GMT-Master II Pepsi",
+      "brand": "Rolex",
+      "description": "GMT-Master II Pepsi wristwatch by Rolex. Reference 126710BLRO.",
+      "reference": "126710BLRO",
+      "category": "mens-watches",
+      "price": 1200000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126710blro-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126710blro-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/gmt-master-ii/m126710blro-0001"
+    },
+    {
+      "id": 4,
+      "title": "Rolex GMT-Master II Batman",
+      "brand": "Rolex",
+      "description": "GMT-Master II Batman wristwatch by Rolex. Reference 126710BLNR.",
+      "reference": "126710BLNR",
+      "category": "mens-watches",
+      "price": 1180000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126710blnr-0002",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126710blnr-0002"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/gmt-master-ii/m126710blnr-0002"
+    },
+    {
+      "id": 5,
+      "title": "Rolex Cosmograph Daytona",
+      "brand": "Rolex",
+      "description": "Cosmograph Daytona wristwatch by Rolex. Reference 126500LN.",
+      "reference": "126500LN",
+      "category": "mens-watches",
+      "price": 1650000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126500ln-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126500ln-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/cosmograph-daytona/m126500ln-0001"
+    },
+    {
+      "id": 6,
+      "title": "Rolex Explorer",
+      "brand": "Rolex",
+      "description": "Explorer wristwatch by Rolex. Reference 124270.",
+      "reference": "124270",
+      "category": "mens-watches",
+      "price": 790000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m124270-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m124270-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/explorer/m124270-0001"
+    },
+    {
+      "id": 7,
+      "title": "Rolex Explorer II",
+      "brand": "Rolex",
+      "description": "Explorer II wristwatch by Rolex. Reference 226570.",
+      "reference": "226570",
+      "category": "mens-watches",
+      "price": 1050000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m226570-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m226570-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/explorer-ii/m226570-0001"
+    },
+    {
+      "id": 8,
+      "title": "Rolex Air-King",
+      "brand": "Rolex",
+      "description": "Air-King wristwatch by Rolex. Reference 126900.",
+      "reference": "126900",
+      "category": "mens-watches",
+      "price": 800000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126900-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126900-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/air-king/m126900-0001"
+    },
+    {
+      "id": 9,
+      "title": "Rolex Sea-Dweller",
+      "brand": "Rolex",
+      "description": "Sea-Dweller wristwatch by Rolex. Reference 126600.",
+      "reference": "126600",
+      "category": "mens-watches",
+      "price": 1420000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+     "thumbnail": "https://www.hlgross.com/cdn/shop/files/m126600-0002_1080x.png",
+"images": [
+  "https://www.hlgross.com/cdn/shop/files/m126600-0002_1080x.png"
+],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/sea-dweller/m126600-0001"
+    },
+    {
+      "id": 10,
+      "title": "Rolex Yacht-Master 40",
+      "brand": "Rolex",
+      "description": "Yacht-Master 40 wristwatch by Rolex. Reference 126622.",
+      "reference": "126622",
+      "category": "mens-watches",
+      "price": 1320000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126622-0001",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_auto/t_v7-cover-majesty-landscape/c_limit,w_800/v1/catalogue/2026/upright-c/m126622-0001"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.rolex.com/en-in/watches/yacht-master/m126622-0001"
+    },
+    {
+      "id": 11,
+      "title": "Audemars Piguet Royal Oak Selfwinding",
+      "brand": "Audemars Piguet",
+      "description": "Royal Oak Selfwinding wristwatch by Audemars Piguet. Reference 15500ST.OO.1220ST.01.",
+      "reference": "15500ST.OO.1220ST.01",
+      "category": "mens-watches",
+      "price": 3700000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568",
+      "images": [
+        "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/15500ST.OO.1220ST.01"
+    },
+    {
+      "id": 12,
+      "title": "Audemars Piguet Royal Oak Jumbo Extra-Thin",
+      "brand": "Audemars Piguet",
+      "description": "Royal Oak Jumbo Extra-Thin wristwatch by Audemars Piguet. Reference 16202ST.OO.1240ST.01.",
+      "reference": "16202ST.OO.1240ST.01",
+      "category": "mens-watches",
+      "price": 8000000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568",
+      "images": [
+        "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/16202ST.OO.1240ST.01"
+    },
+    {
+      "id": 13,
+      "title": "Audemars Piguet Royal Oak Selfwinding",
+      "brand": "Audemars Piguet",
+      "description": "Royal Oak Selfwinding wristwatch by Audemars Piguet. Reference 15510ST.OO.1320ST.10.",
+      "reference": "15510ST.OO.1320ST.10",
+      "category": "mens-watches",
+      "price": 4200000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568",
+      "images": [
+        "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/15510ST.OO.1320ST.10"
+    },
+    {
+      "id": 14,
+      "title": "Audemars Piguet Royal Oak Chronograph",
+      "brand": "Audemars Piguet",
+      "description": "Royal Oak Chronograph wristwatch by Audemars Piguet. Reference 26240ST.",
+      "reference": "26240ST",
+      "category": "mens-watches",
+      "price": 5500000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568",
+      "images": [
+        "https://dynamicmedia.audemarspiguet.com/is/image/audemarspiguet/watch-598?fmt=png-alpha&wid=568"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.audemarspiguet.com/gb/en/watch-collection"
+    },
+    {
+      "id": 15,
+      "title": "Audemars Piguet Royal Oak Offshore Chronograph",
+      "brand": "Audemars Piguet",
+      "description": "Royal Oak Offshore Chronograph wristwatch by Audemars Piguet. Reference 26420SO.OO.A002CA.01.",
+      "reference": "26420SO.OO.A002CA.01",
+      "category": "mens-watches",
+      "price": 3900000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1630508030588-4CE1QCTBWF03X98NHDD2/ROO_26238ST-OO-2000ST-01_SDT_JPEG.jpeg",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/512f9596e4b0ed945e3306aa/1630508030588-4CE1QCTBWF03X98NHDD2/ROO_26238ST-OO-2000ST-01_SDT_JPEG.jpeg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.audemarspiguet.com/en/watch-collection/royal-oak/26420SO.OO.A002CA.01"
+    },
+    {
+      "id": 16,
+      "title": "Hublot Big Bang Original Unico Titanium Coal Blue",
+      "brand": "Hublot",
+      "description": "Big Bang Original Unico Titanium Coal Blue wristwatch by Hublot. Reference 431.NX.717B.RX.",
+      "reference": "431.NX.717B.RX",
+      "category": "mens-watches",
+      "price": 2100000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2026-01/Big-Bang-Original-Unico-Coal-Blue-43-mm-Soldier.png?itok=m5jhSv6e",
+      "images": [
+        "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2026-01/Big-Bang-Original-Unico-Coal-Blue-43-mm-Soldier.png?itok=m5jhSv6e"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.hublot.com/en-int/watches/big-bang/big-bang-original-unico-titanium-coal-blue-43-mm"
+    },
+    {
+      "id": 17,
+      "title": "Hublot Classic Fusion Titanium 45 mm",
+      "brand": "Hublot",
+      "description": "Classic Fusion Titanium 45 mm wristwatch by Hublot. Reference 511.NX.1171.RX.",
+      "reference": "511.NX.1171.RX",
+      "category": "mens-watches",
+      "price": 850000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+     "thumbnail": "./images/hublot.jpg",
+"images": [
+  "./images/hublot.jpg"
+],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.hublot.com/en-int/mens-watches"
+    },
+    {
+      "id": 18,
+      "title": "Hublot Big Bang Unico Titanium 42 mm",
+      "brand": "Hublot",
+      "description": "Big Bang Unico Titanium 42 mm wristwatch by Hublot. Reference 441.NX.1171.RX.",
+      "reference": "441.NX.1171.RX",
+      "category": "mens-watches",
+      "price": 1900000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2026-01/Big-Bang-Original-Unico-Coal-Blue-43-mm-Soldier.png?itok=m5jhSv6e",
+      "images": [
+        "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2026-01/Big-Bang-Original-Unico-Coal-Blue-43-mm-Soldier.png?itok=m5jhSv6e"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.hublot.com/en-int/mens-watches"
+    },
+    {
+      "id": 19,
+      "title": "Hublot Classic Fusion Chronograph Titanium",
+      "brand": "Hublot",
+      "description": "Classic Fusion Chronograph Titanium wristwatch by Hublot. Reference 521.NX.1171.RX.",
+      "reference": "521.NX.1171.RX",
+      "category": "mens-watches",
+      "price": 1200000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.berrysjewellers.co.uk/cdn/shop/files/hublot-classic-fusion-45mm-chronograph-titanium-automatic-watch-520-nx-1170-nx-72726875767166.png?v=1737379957&width=800",
+      "images": [
+        "https://www.berrysjewellers.co.uk/cdn/shop/files/hublot-classic-fusion-45mm-chronograph-titanium-automatic-watch-520-nx-1170-nx-72726875767166.png?v=1737379957&width=800"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.hublot.com/en-int/mens-watches"
+    },
+    {
+      "id": 20,
+      "title": "Patek Philippe Nautilus",
+      "brand": "Patek Philippe",
+      "description": "Nautilus wristwatch by Patek Philippe. Reference 5711/1A-010.",
+      "reference": "5711/1A-010",
+      "category": "mens-watches",
+      "price": 9500000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://flecto.id/public/product-sku/23248/lg-5711-1a-010-fa.png",
+      "images": [
+        "https://flecto.id/public/product-sku/23248/lg-5711-1a-010-fa.png"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 21,
+      "title": "Patek Philippe Aquanaut",
+      "brand": "Patek Philippe",
+      "description": "Aquanaut wristwatch by Patek Philippe. Reference 5167A-001.",
+      "reference": "5167A-001",
+      "category": "mens-watches",
+      "price": 5500000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://sothebys-md.brightspotcdn.com/85/7e/17137ee440c68568bdf6efef7a39/hk1191-c5lm5-055-01-1-t2.jpg",
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/85/7e/17137ee440c68568bdf6efef7a39/hk1191-c5lm5-055-01-1-t2.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 22,
+      "title": "Patek Philippe Calatrava",
+      "brand": "Patek Philippe",
+      "description": "Calatrava wristwatch by Patek Philippe. Reference 6119G-001.",
+      "reference": "6119G-001",
+      "category": "mens-watches",
+      "price": 3500000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.phigora.com/cdn/shop/files/patek-philippe-calatrava-6119g-charcoal-gray-dial-mens-watch-box-papers-872078.jpg?v=1759261661&width=1946",
+      "images": [
+        "https://www.phigora.com/cdn/shop/files/patek-philippe-calatrava-6119g-charcoal-gray-dial-mens-watch-box-papers-872078.jpg?v=1759261661&width=1946"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 23,
+      "title": "Omega Speedmaster Moonwatch Professional",
+      "brand": "Omega",
+      "description": "Speedmaster Moonwatch Professional wristwatch by Omega. Reference 310.30.42.50.01.001.",
+      "reference": "310.30.42.50.01.001",
+      "category": "mens-watches",
+      "price": 750000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.fraserhart.co.uk/dw/image/v2/BFNQ_PRD/on/demandware.static/-/Sites-ang_master-catalog/default/dw227e419b/hi-res/o31030425001002-omega-speedmaster-moonwatch-42mm-calibre-3861-dial-chronograph-steel-case-watch-08-22-2-5565-img1.jpg?sh=1000&sm=fit&sw=1000",
+      "images": [
+        "https://www.fraserhart.co.uk/dw/image/v2/BFNQ_PRD/on/demandware.static/-/Sites-ang_master-catalog/default/dw227e419b/hi-res/o31030425001002-omega-speedmaster-moonwatch-42mm-calibre-3861-dial-chronograph-steel-case-watch-08-22-2-5565-img1.jpg?sh=1000&sm=fit&sw=1000"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 24,
+      "title": "Omega Seamaster Diver 300M",
+      "brand": "Omega",
+      "description": "Seamaster Diver 300M wristwatch by Omega. Reference 210.30.42.20.01.001.",
+      "reference": "210.30.42.20.01.001",
+      "category": "mens-watches",
+      "price": 620000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://res.cloudinary.com/wc-photo/image/upload/v1698407695/cms/Placeholder_Images/Source_for_Me/Omega/210.30.42.20.03.001/Omega_21030422003001_d2c5d4e974.png",
+      "images": [
+        "https://res.cloudinary.com/wc-photo/image/upload/v1698407695/cms/Placeholder_Images/Source_for_Me/Omega/210.30.42.20.03.001/Omega_21030422003001_d2c5d4e974.png"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 25,
+      "title": "Omega Seamaster Aqua Terra 150M",
+      "brand": "Omega",
+      "description": "Seamaster Aqua Terra 150M wristwatch by Omega. Reference 220.10.41.21.03.001.",
+      "reference": "220.10.41.21.03.001",
+      "category": "mens-watches",
+      "price": 680000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "./images/omega.webp",
+"images": [
+  "./images/omega.webp"
+],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 26,
+      "title": "Cartier Santos de Cartier Large",
+      "brand": "Cartier",
+      "description": "Santos de Cartier Large wristwatch by Cartier. Reference WSSA0018.",
+      "reference": "WSSA0018",
+      "category": "mens-watches",
+      "price": 850000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://www.net-a-porter.com/variants/images/46376663162940326/in/w2000_q60.jpg",
+      "images": [
+        "https://www.net-a-porter.com/variants/images/46376663162940326/in/w2000_q60.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 27,
+      "title": "Cartier Tank Must Large",
+      "brand": "Cartier",
+      "description": "Tank Must Large wristwatch by Cartier. Reference WSTA0041.",
+      "reference": "WSTA0041",
+      "category": "mens-watches",
+      "price": 340000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://ekskluzywnezegarki.pl/cdn/shop/files/WSTA0028-1.png?v=1739220997&width=600",
+      "images": [
+        "https://ekskluzywnezegarki.pl/cdn/shop/files/WSTA0028-1.png?v=1739220997&width=600"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 28,
+      "title": "Tudor Black Bay Fifty-Eight",
+      "brand": "Tudor",
+      "description": "Black Bay Fifty-Eight wristwatch by Tudor. Reference M79030N-0001.",
+      "reference": "M79030N-0001",
+      "category": "mens-watches",
+      "price": 400000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://emwa.com.mx/wp-content/uploads/2024/06/tudor_M79030B-0001_in_store_flat_lay.jpg",
+      "images": [
+        "https://emwa.com.mx/wp-content/uploads/2024/06/tudor_M79030B-0001_in_store_flat_lay.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 29,
+      "title": "TAG Heuer Monaco Chronograph",
+      "brand": "TAG Heuer",
+      "description": "Monaco Chronograph wristwatch by TAG Heuer. Reference CAW211P.FC6356.",
+      "reference": "CAW211P.FC6356",
+      "category": "mens-watches",
+      "price": 780000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://lojavivarafsv3.vtexassets.com/arquivos/ids/777378-1440-auto/Relogio-TAG-Heuer-Monaco-Masculino-CBL2111FC6453-55861_1_set.webp?quality=9&v=638437348331700000",
+      "images": [
+        "https://lojavivarafsv3.vtexassets.com/arquivos/ids/777378-1440-auto/Relogio-TAG-Heuer-Monaco-Masculino-CBL2111FC6453-55861_1_set.webp?quality=9&v=638437348331700000"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 30,
+      "title": "Breitling Navitimer B01 Chronograph 43",
+      "brand": "Breitling",
+      "description": "Navitimer B01 Chronograph 43 wristwatch by Breitling. Reference AB0138211B1A1.",
+      "reference": "AB0138211B1A1",
+      "category": "mens-watches",
+      "price": 950000,
+      "currency": "INR",
+      "priceType": "illustrative estimate",
+      "rating": null,
+      "stock": 5,
+      "stockType": "demo",
+      "thumbnail": "https://ijl.ca/cdn/shop/files/oepwqg5h9y8ydqrkyrm6.png?v=1755367591&width=2000",
+      "images": [
+        "https://ijl.ca/cdn/shop/files/oepwqg5h9y8ydqrkyrm6.png?v=1755367591&width=2000"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://www.theaequatorcollection.com/en/referenties"
+    },
+    {
+      "id": 31,
+      "title": "Prada 17WS 1AB/5S0 49",
+      "brand": "Prada",
+      "description": "Designer sunglasses by Prada, model 17WS, variant 1AB/5S0 49.",
+      "reference": "17WS 1AB/5S0 49",
+      "category": "mens-sunglasses",
+      "price": 36530,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500",
+      "images": [
+        "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 32,
+      "title": "Gucci GG0746S 001 57",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG0746S, variant 001 57.",
+      "reference": "GG0746S 001 57",
+      "category": "mens-sunglasses",
+      "price": 14520,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 33,
+      "title": "Gucci GG0962S 005 55",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG0962S, variant 005 55.",
+      "reference": "GG0962S 005 55",
+      "category": "mens-sunglasses",
+      "price": 20500,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 34,
+      "title": "Tom Ford Fausto FT0711 01A 53",
+      "brand": "Tom Ford",
+      "description": "Designer sunglasses by Tom Ford, model Fausto FT0711, variant 01A 53.",
+      "reference": "Fausto FT0711 01A 53",
+      "category": "mens-sunglasses",
+      "price": 34760,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://media.visio-net.co.uk/oscommerce/images/viewerxxl_new/tom-ford-FAUSTO-FT0711S-01A-53_1.jpg",
+      "images": [
+        "https://media.visio-net.co.uk/oscommerce/images/viewerxxl_new/tom-ford-FAUSTO-FT0711S-01A-53_1.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 35,
+      "title": "Gucci GG1346SK 001 56",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1346SK, variant 001 56.",
+      "reference": "GG1346SK 001 56",
+      "category": "mens-sunglasses",
+      "price": 14520,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 36,
+      "title": "Gucci GG1084S 001 54",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1084S, variant 001 54.",
+      "reference": "GG1084S 001 54",
+      "category": "mens-sunglasses",
+      "price": 26220,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 37,
+      "title": "Gucci GG1221S 004 56",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1221S, variant 004 56.",
+      "reference": "GG1221S 004 56",
+      "category": "mens-sunglasses",
+      "price": 31850,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 38,
+      "title": "Gucci GG1221S 001 56",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1221S, variant 001 56.",
+      "reference": "GG1221S 001 56",
+      "category": "mens-sunglasses",
+      "price": 29040,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 39,
+      "title": "Tom Ford Dax FT0751 52N 50",
+      "brand": "Tom Ford",
+      "description": "Designer sunglasses by Tom Ford, model Dax FT0751, variant 52N 50.",
+      "reference": "Dax FT0751 52N 50",
+      "category": "mens-sunglasses",
+      "price": 31240,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.glassesstation.co.uk/media/thumbs/1500x937.5/media/marcolinimages/FT0751_01V_01fw1500fh937.5.jpg",
+      "images": [
+        "https://www.glassesstation.co.uk/media/thumbs/1500x937.5/media/marcolinimages/FT0751_01V_01fw1500fh937.5.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 40,
+      "title": "Gucci GG1869S 001 53",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1869S, variant 001 53.",
+      "reference": "GG1869S 001 53",
+      "category": "mens-sunglasses",
+      "price": 20500,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 41,
+      "title": "Tom Ford Dax FT0751 01V 50",
+      "brand": "Tom Ford",
+      "description": "Designer sunglasses by Tom Ford, model Dax FT0751, variant 01V 50.",
+      "reference": "Dax FT0751 01V 50",
+      "category": "mens-sunglasses",
+      "price": 31240,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.glassesstation.co.uk/media/thumbs/1500x937.5/media/marcolinimages/FT0751_01V_01fw1500fh937.5.jpg",
+      "images": [
+        "https://www.glassesstation.co.uk/media/thumbs/1500x937.5/media/marcolinimages/FT0751_01V_01fw1500fh937.5.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 42,
+      "title": "Burberry BE4291 3007/H 38",
+      "brand": "Burberry",
+      "description": "Designer sunglasses by Burberry, model BE4291, variant 3007/H 38.",
+      "reference": "BE4291 3007/H 38",
+      "category": "mens-sunglasses",
+      "price": 18110,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mckckj5d91j398",
+      "images": [
+        "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mckckj5d91j398"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 43,
+      "title": "Cartier CT0474S 001 56",
+      "brand": "Cartier",
+      "description": "Designer sunglasses by Cartier, model CT0474S, variant 001 56.",
+      "reference": "CT0474S 001 56",
+      "category": "mens-sunglasses",
+      "price": 121200,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg",
+      "images": [
+        "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 44,
+      "title": "Cartier CT0474S 002 56",
+      "brand": "Cartier",
+      "description": "Designer sunglasses by Cartier, model CT0474S, variant 002 56.",
+      "reference": "CT0474S 002 56",
+      "category": "mens-sunglasses",
+      "price": 121200,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg",
+      "images": [
+        "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 45,
+      "title": "Prada 09ZS 1AB/5S0 54",
+      "brand": "Prada",
+      "description": "Designer sunglasses by Prada, model 09ZS, variant 1AB/5S0 54.",
+      "reference": "09ZS 1AB/5S0 54",
+      "category": "mens-sunglasses",
+      "price": 36530,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500",
+      "images": [
+        "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 46,
+      "title": "Gucci GG1941S 001 56",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1941S, variant 001 56.",
+      "reference": "GG1941S 001 56",
+      "category": "mens-sunglasses",
+      "price": 26220,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 47,
+      "title": "Ray-Ban Original Wayfarer RB2140 901 54",
+      "brand": "Ray-Ban",
+      "description": "Designer sunglasses by Ray-Ban, model Original Wayfarer RB2140, variant 901 54.",
+      "reference": "Original Wayfarer RB2140 901 54",
+      "category": "mens-sunglasses",
+      "price": 11250,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://gemopticians.com/cdn/shop/products/wayfarer-2140-901-54-gem-opticians-1.jpg?v=1718554404&width=1200",
+      "images": [
+        "https://gemopticians.com/cdn/shop/products/wayfarer-2140-901-54-gem-opticians-1.jpg?v=1718554404&width=1200"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/products/rayban-wayfarer-2140-901-54"
+    },
+    {
+      "id": 48,
+      "title": "Tom Ford Fausto FT0711 56E 53",
+      "brand": "Tom Ford",
+      "description": "Designer sunglasses by Tom Ford, model Fausto FT0711, variant 56E 53.",
+      "reference": "Fausto FT0711 56E 53",
+      "category": "mens-sunglasses",
+      "price": 34760,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://media.visio-net.co.uk/oscommerce/images/viewerxxl_new/tom-ford-FAUSTO-FT0711S-01A-53_1.jpg",
+      "images": [
+        "https://media.visio-net.co.uk/oscommerce/images/viewerxxl_new/tom-ford-FAUSTO-FT0711S-01A-53_1.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 49,
+      "title": "Cartier CT0468S 003 58",
+      "brand": "Cartier",
+      "description": "Designer sunglasses by Cartier, model CT0468S, variant 003 58.",
+      "reference": "CT0468S 003 58",
+      "category": "mens-sunglasses",
+      "price": 102500,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg",
+      "images": [
+        "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 50,
+      "title": "Cartier CT0330S 001 57",
+      "brand": "Cartier",
+      "description": "Designer sunglasses by Cartier, model CT0330S, variant 001 57.",
+      "reference": "CT0330S 001 57",
+      "category": "mens-sunglasses",
+      "price": 97900,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg",
+      "images": [
+        "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 51,
+      "title": "Ray-Ban Clubmaster Classic RB3016 W0366 51",
+      "brand": "Ray-Ban",
+      "description": "Designer sunglasses by Ray-Ban, model Clubmaster Classic RB3016, variant W0366 51.",
+      "reference": "Clubmaster Classic RB3016 W0366 51",
+      "category": "mens-sunglasses",
+      "price": 11250,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://officina7.fbitsstatic.net/img/p/oculos-de-sol-ray-ban-clubmaster-tortoise-rb3016-w0366-55-94202/284520-6.jpg?h=960&qs=ignore&v=202606161204&w=1200",
+      "images": [
+        "https://officina7.fbitsstatic.net/img/p/oculos-de-sol-ray-ban-clubmaster-tortoise-rb3016-w0366-55-94202/284520-6.jpg?h=960&qs=ignore&v=202606161204&w=1200"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 52,
+      "title": "Gucci GG1221S 006 56",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1221S, variant 006 56.",
+      "reference": "GG1221S 006 56",
+      "category": "mens-sunglasses",
+      "price": 29040,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 53,
+      "title": "Burberry BE4291 4049/6G 38",
+      "brand": "Burberry",
+      "description": "Designer sunglasses by Burberry, model BE4291, variant 4049/6G 38.",
+      "reference": "BE4291 4049/6G 38",
+      "category": "mens-sunglasses",
+      "price": 18110,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mckckj5d91j398",
+      "images": [
+        "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mckckj5d91j398"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 54,
+      "title": "Off-White Virgil OW1022 1007 50",
+      "brand": "Off-White",
+      "description": "Designer sunglasses by Off-White, model Virgil OW1022, variant 1007 50.",
+      "reference": "Virgil OW1022 1007 50",
+      "category": "mens-sunglasses",
+      "price": 30580,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://cdn.clothbase.com/uploads/bbf49bb9-e182-45ed-b614-c916c841b689/29_11_2023_jd_oeri008y21pla0011007_1.jpg",
+      "images": [
+        "https://cdn.clothbase.com/uploads/bbf49bb9-e182-45ed-b614-c916c841b689/29_11_2023_jd_oeri008y21pla0011007_1.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 55,
+      "title": "Gucci GG1808S 002 52",
+      "brand": "Gucci",
+      "description": "Designer sunglasses by Gucci, model GG1808S, variant 002 52.",
+      "reference": "GG1808S 002 52",
+      "category": "mens-sunglasses",
+      "price": 30440,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325",
+      "images": [
+        "https://www.goodseeco.com/cdn/shop/files/1_28210cf7-d68e-4a30-9a76-4a67b949a96b.png?v=1765243325"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 56,
+      "title": "Cartier CT0330S 007 57",
+      "brand": "Cartier",
+      "description": "Designer sunglasses by Cartier, model CT0330S, variant 007 57.",
+      "reference": "CT0330S 007 57",
+      "category": "mens-sunglasses",
+      "price": 101600,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg",
+      "images": [
+        "https://product.hstatic.net/1000122386/product/ct0474s_001_81049c014ac74a7c8321c39f45fd5d07_master.jpg"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 57,
+      "title": "Prada A16S 16K/731 49",
+      "brand": "Prada",
+      "description": "Designer sunglasses by Prada, model A16S, variant 16K/731 49.",
+      "reference": "A16S 16K/731 49",
+      "category": "mens-sunglasses",
+      "price": 36530,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500",
+      "images": [
+        "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 58,
+      "title": "Prada 17WS 2AU/8C1 49",
+      "brand": "Prada",
+      "description": "Designer sunglasses by Prada, model 17WS, variant 2AU/8C1 49.",
+      "reference": "17WS 2AU/8C1 49",
+      "category": "mens-sunglasses",
+      "price": 34640,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500",
+      "images": [
+        "https://ae.sunglasshut.com/cdn/shop/products/8056597418478-288272.png?v=1644235772&width=3500"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 59,
+      "title": "Ray-Ban Original Wayfarer RB2140 902/57 50",
+      "brand": "Ray-Ban",
+      "description": "Designer sunglasses by Ray-Ban, model Original Wayfarer RB2140, variant 902/57 50.",
+      "reference": "Original Wayfarer RB2140 902/57 50",
+      "category": "mens-sunglasses",
+      "price": 13190,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://gemopticians.com/cdn/shop/products/wayfarer-2140-901-54-gem-opticians-1.jpg?v=1718554404&width=1200",
+      "images": [
+        "https://gemopticians.com/cdn/shop/products/wayfarer-2140-901-54-gem-opticians-1.jpg?v=1718554404&width=1200"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    },
+    {
+      "id": 60,
+      "title": "Maybach The Idol I PA/WEG/M12 56",
+      "brand": "Maybach",
+      "description": "Designer sunglasses by Maybach, model The Idol I, variant PA/WEG/M12 56.",
+      "reference": "The Idol I PA/WEG/M12 56",
+      "category": "mens-sunglasses",
+      "price": 343650,
+      "currency": "INR",
+      "priceType": "retailer listing snapshot",
+      "rating": null,
+      "stock": 10,
+      "stockType": "demo",
+      "thumbnail": "https://gemopticians.com/cdn/shop/files/MAYBACH_THEIDOLI_PAWEGM12_56_3045.jpg?v=1736345223",
+      "images": [
+        "https://gemopticians.com/cdn/shop/files/MAYBACH_THEIDOLI_PAWEGM12_56_3045.jpg?v=1736345223"
+      ],
+      "imageStatus": "External product photograph link; illustrative variant or same-brand model may differ; live loading untested.",
+      "sourceUrl": "https://gemopticians.com/collections/mens-sunglasses"
+    }
+  ],
+  "total": 60,
+  "skip": 0,
+  "limit": 60,
+  "catalogueNote": "Demo catalogue. Prices and stock are not live. Photos are external links, some reused for related models or variants; availability and exact matches are not guaranteed."
+}
