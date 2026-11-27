@@ -6,7 +6,6 @@ let products = [];
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
 
 
-// Fetch products from JSON file
 async function fetchProducts() {
   try {
     const response = await fetch("./real-luxury-products.json");
@@ -31,7 +30,6 @@ async function fetchProducts() {
 }
 
 
-// Display products
 function displayProducts(productList) {
 
   productContainer.innerHTML = "";
@@ -65,7 +63,6 @@ function displayProducts(productList) {
     `;
 
 
-    // Hide image if it fails to load
     const image = card.querySelector("img");
 
     image.addEventListener("error", () => {
@@ -73,7 +70,6 @@ function displayProducts(productList) {
     });
 
 
-    // Add to Cart button
     const button = card.querySelector(".add-to-cart");
 
     button.addEventListener("click", () => {
@@ -94,7 +90,6 @@ function displayProducts(productList) {
 }
 
 
-// Add product to cart
 function addToCart(productId) {
 
   const product = products.find(
@@ -131,7 +126,6 @@ function addToCart(productId) {
 }
 
 
-// Update cart count
 function updateCartCount() {
 
   let totalQuantity = 0;
@@ -147,7 +141,6 @@ function updateCartCount() {
 }
 
 
-// Filter products by category
 function filterProducts(category) {
 
   if (category === "all") {
@@ -166,6 +159,5 @@ function filterProducts(category) {
 }
 
 
-// Initialize website
 fetchProducts();
 updateCartCount();

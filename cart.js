@@ -1,24 +1,19 @@
 
-// Retrieve cart data from localStorage
 
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
 
 
-// Select cart container
 
 const container = document.getElementById("cart-container");
 
 
-// Display cart products
 
 function renderCart() {
 
-  // Clear previously displayed products
 
   container.innerHTML = "";
 
 
-  // Handle empty cart
 
   if (cart.length === 0) {
 
@@ -40,7 +35,6 @@ function renderCart() {
   }
 
 
-  // Generate cart item cards
 
   cart.forEach(function (item) {
 
@@ -84,7 +78,6 @@ function renderCart() {
         `;
 
 
-    // Select buttons
 
     const increaseBtn = card.querySelector(".increase-btn");
 
@@ -93,7 +86,6 @@ function renderCart() {
     const removeBtn = card.querySelector(".remove-btn");
 
 
-    // Increase button event listener
 
     increaseBtn.addEventListener("click", function () {
 
@@ -102,7 +94,6 @@ function renderCart() {
     });
 
 
-    // Decrease button event listener
 
     decreaseBtn.addEventListener("click", function () {
 
@@ -111,7 +102,6 @@ function renderCart() {
     });
 
 
-    // Remove button event listener
 
     removeBtn.addEventListener("click", function () {
 
@@ -120,21 +110,18 @@ function renderCart() {
     });
 
 
-    // Append cart item
 
     container.appendChild(card);
 
   });
 
 
-  // Update order summary
 
   updateSummary();
 
 }
 
 
-// Save updated cart
 
 function saveCart() {
 
@@ -145,7 +132,6 @@ function saveCart() {
 }
 
 
-// Increase product quantity
 
 function increaseQuantity(id) {
 
@@ -165,7 +151,6 @@ function increaseQuantity(id) {
 }
 
 
-// Decrease product quantity
 
 function decreaseQuantity(id) {
 
@@ -185,7 +170,6 @@ function decreaseQuantity(id) {
 }
 
 
-// Remove product
 
 function removeProduct(id) {
 
@@ -200,7 +184,6 @@ function removeProduct(id) {
 }
 
 
-// Calculate order summary
 
 function updateSummary() {
 
@@ -218,24 +201,20 @@ function updateSummary() {
   });
 
 
-  // Update total items
 
   document.getElementById("total-items").textContent = totalItems;
 
 
-  // Update total price
 
   document.getElementById("total-price").textContent = totalPrice.toFixed(2);
 
 
-  // Disable checkout button when cart is empty
 
   document.getElementById("checkout-btn").disabled = cart.length === 0;
 
 }
 
 
-// Place Order functionality
 
 const checkoutBtn = document.getElementById("checkout-btn");
 
@@ -257,6 +236,5 @@ checkoutBtn.addEventListener("click", function () {
 });
 
 
-// Initial function call
 
 renderCart();
